@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rohith-vuthunur/react/static/css/main.a6329f23.css",
+    "main.js": "/Rohith-vuthunur/react/static/js/main.27ae5e47.js",
+    "static/js/453.b2157c12.chunk.js": "/Rohith-vuthunur/react/static/js/453.b2157c12.chunk.js",
+    "index.html": "/Rohith-vuthunur/react/index.html",
+    "main.a6329f23.css.map": "/Rohith-vuthunur/react/static/css/main.a6329f23.css.map",
+    "main.27ae5e47.js.map": "/Rohith-vuthunur/react/static/js/main.27ae5e47.js.map",
+    "453.b2157c12.chunk.js.map": "/Rohith-vuthunur/react/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6329f23.css",
+    "static/js/main.27ae5e47.js"
+  ]
+}
